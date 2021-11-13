@@ -4,7 +4,7 @@
 ## About
 A token generation Server using the factory pattern and Blueprints.<br/>
 
-A forked stripped down version of 
+A forked stripped down version of [Flask Starter](https://github.com/Mupati/agora-flask-starter) by [a link](https://github.com/Mupati)
 
 ## Setup
 
